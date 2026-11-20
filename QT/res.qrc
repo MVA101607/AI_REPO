@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/Start-icon.png</file>
+        <file>icon/Stop-red-icon.png</file>
+        <file>icon/Help-icon.png</file>
+        <file>icon/square1-white.png</file>
+        <file>icon/square1-green.png</file>
+        <file>icon/square1-red.png</file>
+        <file>icon/lightning-bolt-th.png</file>
+        <file>icon/pum.png</file>
+    </qresource>
+</RCC>
